@@ -1,0 +1,18 @@
+E:\Work Batch 04\Shibl\Practice Day 6\CalculatorUDT\bin\Debug\CalculatorUDT.exe.config
+E:\Work Batch 04\Shibl\Practice Day 6\CalculatorUDT\bin\Debug\CalculatorUDT.exe
+E:\Work Batch 04\Shibl\Practice Day 6\CalculatorUDT\bin\Debug\CalculatorUDT.pdb
+E:\Work Batch 04\Shibl\Practice Day 6\CalculatorUDT\obj\Debug\CalculatorUDT.csprojResolveAssemblyReference.cache
+E:\Work Batch 04\Shibl\Practice Day 6\CalculatorUDT\obj\Debug\CalculatorUDT.Properties.Resources.resources
+E:\Work Batch 04\Shibl\Practice Day 6\CalculatorUDT\obj\Debug\CalculatorUDT.csproj.GenerateResource.Cache
+E:\Work Batch 04\Shibl\Practice Day 6\CalculatorUDT\obj\Debug\CalculatorUDT.exe
+E:\Work Batch 04\Shibl\Practice Day 6\CalculatorUDT\obj\Debug\CalculatorUDT.pdb
+E:\Work Batch 04\Shibl\Practice Day 6\CalculatorUDT\obj\Debug\CalculatorUDT.CalculatorForm.resources
+G:\C# tutorial\Practice Day 6\CalculatorUDT\bin\Debug\CalculatorUDT.exe.config
+G:\C# tutorial\Practice Day 6\CalculatorUDT\obj\Debug\CalculatorUDT.exe
+G:\C# tutorial\Practice Day 6\CalculatorUDT\obj\Debug\CalculatorUDT.pdb
+G:\C# tutorial\Practice Day 6\CalculatorUDT\bin\Debug\CalculatorUDT.exe
+G:\C# tutorial\Practice Day 6\CalculatorUDT\bin\Debug\CalculatorUDT.pdb
+G:\C# tutorial\Practice Day 6\CalculatorUDT\obj\Debug\CalculatorUDT.csprojResolveAssemblyReference.cache
+G:\C# tutorial\Practice Day 6\CalculatorUDT\obj\Debug\CalculatorUDT.CalculatorForm.resources
+G:\C# tutorial\Practice Day 6\CalculatorUDT\obj\Debug\CalculatorUDT.Properties.Resources.resources
+G:\C# tutorial\Practice Day 6\CalculatorUDT\obj\Debug\CalculatorUDT.csproj.GenerateResource.Cache
